@@ -4,5 +4,5 @@
 todo : 
 - installer Pagedjs si nécessaire mais pour l'instant ça a l'air d'aller
 - pouvoir lire le dossier dist 
-    si trop galère faire un script en bash qui lit le dir et écrit un json avec le path de toutes les img 
+    - si trop galère faire un script en bash qui lit le dir et écrit un json avec le path de toutes les img 
 - slugify les id
